@@ -10,4 +10,6 @@
 
 过两天考虑自定义ip，目前是写死的127.0.0.1，实际上一些其他内网ip也是有效的
 
+![](https://xuyiqing-1257927651.cos.ap-beijing.myqcloud.com/burpsuite/xff.png)
+
 
